@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=c2fee6&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:defbcf,5:eefbcf,50:fdfdcd,95:eefbcf,100:defbcf&height=300&section=header&text=Semin%20Kang&fontColor=f3b053&fontSize=90&animation=fadeIn)
